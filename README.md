@@ -19,9 +19,9 @@ python setup.py install
 
 2. Install Levenshtein 0.12.0:
 
-Please download python-Levenshtein-0.12.0.tar.gz from https://pypi.python.org/pypi/python-Levenshtein/0.12.0 , 
+unzip the file: python-Levenshtein-0.12.0.tar.gz 
 
-unzip it and use setup.py to install:
+use setup.py to install:
 
 python setup.py install
 
