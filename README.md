@@ -1,7 +1,7 @@
 # ChatterBot_Trained_by_Subtitles
 
 
-Based on Python 3.6 and ChatterBot 0.7.6
+Based on Python 3.6, ChatterBot 0.7.6 and Levenshtein 0.12.0
 
 My work is in filefolder "look_here"
 
@@ -11,6 +11,17 @@ My work is in filefolder "look_here"
 
 Installation:
 
+
+1. Install ChatterBot 0.7.6:
+
+python setup.py install
+
+
+2. Install Levenshtein 0.12.0:
+
+Please download python-Levenshtein-0.12.0.tar.gz from https://pypi.python.org/pypi/python-Levenshtein/0.12.0 , 
+
+unzip it and use setup.py to install:
 
 python setup.py install
 
