@@ -6,8 +6,7 @@ class SubtitleTrainer(Trainer):
 
     def train(self, *corpus_paths):  
         #corpus_paths is a list of paths of corpus or one corpus path.
-        #read each corpus from line NN to N. By default the whole file is read.
-
+        
         for corpus in corpus_paths:
     
             print(corpus)
